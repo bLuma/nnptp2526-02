@@ -1,5 +1,5 @@
 Hello World!!!
 
-Třetí commit
+Třetí commit !master!
 
 Další změna
